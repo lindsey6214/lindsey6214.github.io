@@ -29,7 +29,7 @@ For more details, have a look at <a href="https://www.linkedin.com/in/lindseymcg
   <tr>
     <td class="col-md-3">Class of 2022</td>
     <td>
-        <strong>High School</strong>
+        <strong>Saugus High School</strong>
     </td>
   </tr>
 </table>
