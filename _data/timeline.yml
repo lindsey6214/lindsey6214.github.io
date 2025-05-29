@@ -31,10 +31,10 @@
   description: Graduated salutatorian and student council president!
   additional_classes: slideInLeft
   icon:
-      src: /images/hschool.heic
+      src: /images/hschool.png
 
 - title: "Birth"
   subtitle: June 21, 2004
   additional_classes: slideInRight
   icon:
-    src: /images/born.HEIC
+    src: /images/born.png
