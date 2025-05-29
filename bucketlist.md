@@ -10,11 +10,11 @@ Everyone has a wish list. Mine mostly have to do with traveling or Taylor Swift 
 Feel free to suggest / comment / share your thoughts in the discussion below.
 
 <ol>
-    <li><del>See the Northern Lights<del> (Feb 2020 in Höfn, Iceland)</li>
-    <li><del>Go to the top of the Eiffel Tower<del> (June 2023)</li>
-    <li><del>Skydive<del> (March 2024 in Newcastle, Australia)</li>
-    <li><del>Scuba dive in the Great Barrier Reef<del> (April 2024)</li>
-    <li><del>Run a Half Marathon (13.1 miles)<del> (Sydney Half Maraton in May 2024)</li>
+    <li><del>See the Northern Lights</del> (Feb 2020 in Höfn, Iceland)</li>
+    <li><del>Go to the top of the Eiffel Tower</del> (June 2023)</li>
+    <li><del>Skydive</del> (March 2024 in Newcastle, Australia)</li>
+    <li><del>Scuba dive in the Great Barrier Reef</del> (April 2024)</li>
+    <li><del>Run a Half Marathon (13.1 miles)</del> (Sydney Half Maraton in May 2024)</li>
     <li>Watch Wimbeldon final live</li>
     <li>Go to a F1 race</li>
     <li>Go to the Masters with my dad</li>
@@ -31,7 +31,6 @@ Feel free to suggest / comment / share your thoughts in the discussion below.
     <li>Visit Machu Picchu, Peru</li>
     <li>Visit Great Pyramid of Giza, Egypt</li>
     <li>Visit Antarctica</li>
-    <li><del>Go on a solo trip</del> | <a href="https://chai-bapat.medium.com/colombia-v0-1-a39a0df112f6" target="_blank">Colombia v0.1 (Spring Break 2018)</a></li>
     <li>...</li>
 </ol>
 
