@@ -41,7 +41,8 @@
     min-height: 480px;
     position: relative;
     color: $off-white;
-    @include retina-image("/images/linz_nyc.jpg", cover, jpg);
+    background-image: url('/images/linz_nyc.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 100%;
     background-blend-mode: overlay;
