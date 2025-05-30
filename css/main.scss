@@ -5,7 +5,6 @@
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-
 @import 
 		"meyer-reset",
         "bourbon/bourbon",
@@ -13,6 +12,7 @@
         "variables",
         "grid/grid",
         "base",
+        "first_fold",
         "layout",
         "syntax-highlighting",
         "custom"
