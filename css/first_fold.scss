@@ -45,6 +45,8 @@
     background-repeat: no-repeat;
     background-position: 0% 100%;
     background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
     @include media($mobile) {
       background-image: url("https://lindsey6214.github.io/images/nyc.JPG");
       background-size: cover;
