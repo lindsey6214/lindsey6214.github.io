@@ -4,7 +4,7 @@ email: lindseymcgovern04@gmail.com
 description: Passionate about ethical AI, live music, and making a positive impact through tech and leadership. # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lindsey6214.github.io" # the base hostname & protocol for your site
+url: "https://lindsey6214.github.io" # the base hostname & protocol for your site
 github_username:  lindsey6214
 
 # Build settings
