@@ -41,12 +41,14 @@
     min-height: 480px;
     position: relative;
     color: $off-white;
-    @include retina-image("/images/nyc.JPG", cover, jpg);
-    background-size: cover;
+    background-image: url("https://lindsey6214.github.io/images/nyc.JPG");
     background-repeat: no-repeat;
     background-position: 0% 100%;
+    background-size: cover;
     @include media($mobile) {
-      @include retina-image("/images/nyc.JPG", cover, jpg);
+      background-image: url("https://lindsey6214.github.io/images/nyc.JPG");
+      background-size: cover;
+      background-position: center;
     }
     hr {
       border: 1px inset $white;
