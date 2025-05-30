@@ -40,15 +40,15 @@
     overflow: hidden;
     min-height: 480px;
     position: relative;
-    color: $off-white;
-    @include retina-image("/images/nyc", cover, jpg);
+    color: #cdcdcd;
+    background-image: url('/images/nyc.JPG');
     background-repeat: no-repeat;
     background-position: 0% 100%;
     background-size: cover;
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.5);
     @include media($mobile) {
-      @include retina-image("/images/nyc", cover, jpg);
+      background-position: center;
     }
     hr {
       border: 1px inset $white;
