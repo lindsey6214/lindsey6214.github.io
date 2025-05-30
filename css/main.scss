@@ -1,14 +1,13 @@
 ---
 ---
-@import 
-  "meyer-reset",
-  "bourbon/bourbon",
-  "neat/neat",
-  "variables",
-  "grid/grid",
-  "base",
-  "first_fold",
-  "layout",
-  "syntax-highlighting",
-  "custom"
-;
+
+@import "meyer-reset";
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "variables";
+@import "grid/grid";
+@import "base";
+@import "first_fold";
+@import "layout";
+@import "syntax-highlighting";
+@import "custom";
