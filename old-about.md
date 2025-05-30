@@ -17,9 +17,5 @@ For more details view <a href="https://www.linkedin.com/in/lindseymcgovern/"><im
 
 You can find me on a variety of world wild interweb sites!
 
-- [GitHub](https://github.com/ChaiBapchya) — I love writing code!
+- [GitHub](https://github.com/lindsey6214) — I love writing code!
 - [Facebook](https://www.facebook.com/lindsey.mcgovern.18/) — If you want to connect as a friend!
-
-
-<a href="https://twitter.com/ChaiBapchya" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ChaiBapchya</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
