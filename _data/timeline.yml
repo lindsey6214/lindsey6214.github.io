@@ -10,7 +10,7 @@
   description:
   additional_classes: slideInLeft
   icon:
-    src: /images/nexchanges.jpg
+    src: /images/nala.png
 
 - title: "Undergrad Teaching Assistant"
   subtitle: Sept - Dec, 2025
@@ -21,7 +21,7 @@
     
 - title: "Breakthrough Tech AI at MIT"
   subtitle: May 2024 - April 2025
-  description:
+  description: Engaged in a year long program, including Machine Learning coursework with MIT faculty, experiential learning experience, and mentorship from industry professionals
   additional_classes: slideInRight
   icon:
     src: /images/bttai.jpeg
