@@ -6,14 +6,14 @@
     src: /images/salemstate.jpg
 
 - title: "AI Machine Learning Engineer Intern, nala"
-  subtitle: May - July, 2025
+  subtitle: May - July 2025
   description:
   additional_classes: slideInLeft
   icon:
     src: /images/nala.png
 
 - title: "Undergrad Teaching Assistant"
-  subtitle: Sept - Dec, 2025
+  subtitle: Sept - Dec 2025
   description: Assisted Dr. Yi in teaching Software Design and Programming (in Java).
   additional_classes: slideInRight
   icon:
