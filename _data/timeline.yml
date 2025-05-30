@@ -1,16 +1,9 @@
 - title: "Salem State University"
   subtitle: Class of 2026
   description: Graduated with a B.S. in Computer Science and Mathematics.
-  additional_classes: slideInRight
-  icon:
-    src: /images/salemstate.jpg
-
-- title: "AI Machine Learning Engineer Intern, nala"
-  subtitle: May - July 2025
-  description:
   additional_classes: slideInLeft
   icon:
-    src: /images/nala.png
+    src: /images/salemstate.jpg
 
 - title: "Undergrad Teaching Assistant"
   subtitle: Sept - Dec 2025
@@ -18,6 +11,13 @@
   additional_classes: slideInRight
   icon:
     src: /images/teach.jpg
+    
+- title: "AI Machine Learning Engineer Intern, nala"
+  subtitle: May - July 2025
+  description:
+  additional_classes: slideInLeft
+  icon:
+    src: /images/nala.png
     
 - title: "Breakthrough Tech AI at MIT"
   subtitle: May 2024 - April 2025
