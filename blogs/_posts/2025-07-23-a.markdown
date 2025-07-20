@@ -1,21 +1,58 @@
 ---
 layout: post
-title:  "July 23, 2025"
+title:  "My summer internship at nala!"
 date:   2025-07-23
-<!-- ahrefurl: https://lindsey6214.github.io/blogs/2025/07/23/July-23-2025.html -->
 comments: true
 categories: tech
 ---
+<!-- ahrefurl: https://lindsey6214.github.io/blogs/2025/07/23/july-23-2025.html -->
 
-<div class="g-plus" data-action="share" data-href="https://lindsey6214.github.io/blogs/tech/2025/07/20/2025-07-23.html"></div>
+<div class="g-plus" data-action="share" data-href="https://lindsey6214.github.io/blogs/2025/07/23/july-23-2025.html"></div>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://lindsey6214.github.io/blogs/tech/2025/07/20/2025-07-23.html" data-via="lindsey6214" data-size="large" data-hashtags="TheConquestOfWhy,Tech,Data">Tweet</a>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://lindsey6214.github.io/blogs/2025/07/23/july-23-2025.html" data-via="lindsey6214" data-size="large" data-hashtags="TheConquestOfWhy,Tech,Data">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A//lindsey6214.github.io/blogs/tech/2025/07/20/2025-07-23.html&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=2079840108912058" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A//lindsey6214.github.io/blogs/2025/07/23/july-23-2025.html&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=2079840108912058" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
+
+## My Summer at nala: Building a Website and a TTS Chatbot
+
+This summer, I had the exciting opportunity to intern at **nala**, a company dedicated to making veterinary information more accessible and engaging through AI. As a Computer Science and Mathematics major (as well as an animal lover), I was thrilled to spend my time doing hands-on work that directly contributed to real projects. My internship revolved around two main goals: building my own website and developing a text-to-speech (TTS) chatbot using APIs and custom backend routes.
+
+### Launching My Own GitHub Pages Website
+
+One of the first major milestones of my internship was building and deploying my own personal website using GitHub Pages. From designing the layout and writing content to configuring the repository and domain settings, this project gave me a chance to:
+
+- Practice version control with Git and GitHub in a professional setting
+- Use HTML, CSS, and JavaScript to build a clean and responsive site
+- Showcase my resume, portfolio projects, and blog (including this post!)
+
+This experience gave me a much deeper understanding of how static site deployment works and how to maintain a clean development workflow for public-facing content. Plus, it’s incredibly satisfying to see my site live and functional out in the real world.
+
+### Building a TTS Chatbot
+
+The second half of my internship was focused on a more advanced challenge: building a chatbot with text-to-speech capabilities. I wanted users to not only interact with the chatbot via text, but also hear responses in natural-sounding speech.
+
+Here’s a breakdown of what I worked on:
+
+- **API Integration**: I used TTS APIs to generate speech audio from the assistant’s responses. This involved sending user messages to a backend route, processing the assistant’s response, and then converting it into audio.
+- **Custom Backend Routes**: Instead of relying solely on third-party tools, I created my own API routes to handle requests, manage state, and trigger audio generation. These routes managed both the streaming of the assistant’s reply and the follow-up TTS audio conversion.
+- **Dynamic Audio Playback**: I worked on refining the user experience so that the audio only appears after the full message is generated to eliminate flickers, restarts, and other quirks that come with streaming-based responses.
+- **Voice Switching**: I also implemented a feature that allows users to select different voices, providing a more customizable experience.
+
+Throughout this project, I gained practical experience with:
+
+- Next.js routing and API middleware.
+- Using OpenAI’s and ElevenLabs’ APIs for language and speech processing.
+- Handling asynchronous flows for both streaming text and TTS audio generation.
+- Optimizing frontend and backend interaction for performance and smooth UX.
+
+### Reflections
+
+My internship at nala was more than just a learning experience—it was an empowering environment where I was trusted to build real features, solve user-facing problems, and push myself as a developer. I improved my technical skills in web development, API design, and audio processing, while also learning how to think creatively about product design and accessibility.
+
+If you’re interested in checking out my chatbot or learning more about my work, feel free to visit my site or reach out!
 
 [firebug]: https://addons.mozilla.org/en-US/firefox/addon/firebug/
 [chrome-dev-tools]: https://developer.chrome.com/devtools
-
 
 {% include comments.html %}
