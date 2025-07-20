@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "My summer internship at nala!"
-date: 2025-07-23
-ahrefurl: /blogs/2025/07/23/nala.html
+date: 2025-07-20
+ahrefurl: /blogs/2025/07/20/nala.html
 comments: true
 categories: tech
 ---
-<!-- ahrefurl: https://lindsey6214.github.io/blogs/2025/07/23/nala.html -->
+<!-- ahrefurl: https://lindsey6214.github.io/blogs/2025/07/20/nala.html -->
 
-<div class="g-plus" data-action="share" data-href="https://lindsey6214.github.io/blogs/2025/07/23/nala.html"></div>
+<div class="g-plus" data-action="share" data-href="https://lindsey6214.github.io/blogs/2025/07/20/nala.html"></div>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://lindsey6214.github.io/blogs/2025/07/23/nala.html" data-via="lindsey6214" data-size="large" data-hashtags="TheConquestOfWhy,Tech,Data">Tweet</a>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://lindsey6214.github.io/blogs/2025/07/20/nala.html" data-via="lindsey6214" data-size="large" data-hashtags="TheConquestOfWhy,Tech,Data">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A//lindsey6214.github.io/blogs/2025/07/23/nala.html.html&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=2079840108912058" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A//lindsey6214.github.io/blogs/2025/07/20/nala.html.html&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=2079840108912058" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
 
 ## My Summer at nala: Building a Website and a TTS Chatbot
 
