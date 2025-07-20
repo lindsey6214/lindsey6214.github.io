@@ -2,6 +2,7 @@
 layout: post
 title: "My summer internship at nala!"
 date: 2025-07-23
+ahrefurl: /blogs/2025/07/23/nala.html
 comments: true
 categories: tech
 ---
