@@ -14,7 +14,7 @@ Feel free to suggest / comment / share your thoughts in the discussion below.
     <li><del>Go to the top of the Eiffel Tower</del> (June 2023)</li>
     <li><del>Skydive</del> (March 2024 in Newcastle, Australia)</li>
     <li><del>Scuba dive in the Great Barrier Reef</del> (April 2024)</li>
-    <li><del>Run a Half Marathon (13.1 miles)</del> (Sydney Half Maraton in May 2024)</li>
+    <li><del>Run a Half Marathon (13.1 miles)</del> (Sydney Half Marathon in May 2024)</li>
     <li>Watch Wimbeldon final live</li>
     <li>Go to a F1 race</li>
     <li>Go to the Masters with my dad</li>
