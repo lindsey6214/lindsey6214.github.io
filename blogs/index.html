@@ -1,72 +1,18 @@
 ---
 layout: default
+title: Posts
+body_class: home
 ---
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114348435-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-114348435-1');
-  </script>
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Passionate about ethical AI, live music, and making a positive impact through tech and leadership.">
-  <meta name="author" content="Lindsey McGovern" />
+<h1 class="page-heading">Posts</h1>
 
-  <title>Posts</title>
-
-  <link rel="canonical" href="https://lindsey6214.github.io/blogs/">
-  <link rel="alternate" type="application/rss+xml" title="Lindsey McGovern" href="https://lindsey6214.github.io/feed.xml" />
-  <link rel="icon" type="image/x-icon" href="/images/fav32.png">
-
-  <!-- Stylesheets -->
-  <link rel="stylesheet" href="/css/main.css">
-  <link href="/vendor/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/vendor/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/vendor/css/academicons.min.css" rel="stylesheet">
-  <link href="/vendor/pygments/default.css" rel="stylesheet">
-  <link href="/css/bamos.css" rel="stylesheet">
-  <link href="/css/sharingbuttons.css" rel="stylesheet">
-
-  <!-- jQuery -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-</head>
-
-<body>
-<header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="/">Lindsey McGovern</a>
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484s0.665-1.484,1.484-1.484h15.031C17.335,0,18,0.665,18,1.484z"/>
-          <path fill="#424242" d="M18,7.516c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,9,0,8.335,0,7.516s0.665-1.484,1.484-1.484h15.031C17.335,6.031,18,6.696,18,7.516z"/>
-          <path fill="#424242" d="M18,13.516c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,15,0,14.335,0,13.516s0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516z"/>
-        </svg>
-      </a>
-      <a href="/index.html">Home</a>
-    </nav>
-  </div>
-</header>
-
-<div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-</body>
-</html>
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>
