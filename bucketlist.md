@@ -7,7 +7,6 @@ comments: true
 
 ## Lindsey's Bucket List
 Everyone has a wish list. Mine mostly have to do with traveling or Taylor Swift or traveling to see Taylor Swift.
-Feel free to suggest / comment / share your thoughts in the discussion below.
 
 <ol>
     <li><del>See the Northern Lights</del> (Feb 2020 in Höfn, Iceland)</li>
